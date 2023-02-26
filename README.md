@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     <a href="https://hj-long.github.io">主页</a> .
-    <a href="https://www.yuque.com/dashboard">语雀笔记</a> .
+    <a href="https://www.yuque.com/along-kukjv">语雀笔记</a> .
     <a href="https://juejin.cn/user/3822345831330648">掘金</a> .
   </samp>
 </p>
