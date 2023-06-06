@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hj-long, come from GuangZhou,China
+- 👋 Hi, I’m hj-long, come from GuangZhou,China
 - 👀 I’m interested in JavaScript、HTML、Css、Python...
 - 📫 my mail is 1203725971@qq.com
 
