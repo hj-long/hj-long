@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript、HTML、Css、Python...
 - 📫 my mail is 1203725971@qq.com
 
-求职中。。。太难了
+求职中。。。
 
 
 ---
