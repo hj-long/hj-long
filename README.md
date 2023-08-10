@@ -1,8 +1,10 @@
-- 👋 Hi, I’m hj-long, come from GuangZhou,China
-- 👀 I’m interested in JavaScript、HTML、Css、Python...
-- 📫 my mail is 1203725971@qq.com
+- 👋 Hi, I’m hj-long, 目前在广州
+- 👀 初级前端工程师、1年工作经验、技术栈：vue2\vue3、Uniapp、Electron、小程序、Nuxt
+- 📫 求职中。。。欢迎联系：1203725971@qq.com
 
-求职中。。。
+
+
+
 
 
 ---
