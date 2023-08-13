@@ -16,11 +16,11 @@
 ### 💞 社交统计
 
 ![GitHub统计](https://stats.justsong.cn/api/github?username=hj-long&theme=highcontrast&lang=zh-CN)
-![掘金统计](https://stats.justsong.cn/api/juejin?id=3822345831330648&theme=highcontrast&lang=zh-CN)
+[![掘金统计](https://stats.justsong.cn/api/juejin?id=3822345831330648&theme=highcontrast&lang=zh-CN)](https://juejin.cn/user/3822345831330648)
 
 <details><summary><strong style="color:#e96443;">[点击展开...]</strong></summary>
 
-![leetcode刷题](https://stats.justsong.cn/api/leetcode?username=hj-long&cn=true&theme=highcontrast&lang=zh-CN)
+[![leetcode刷题](https://stats.justsong.cn/api/leetcode?username=hj-long&cn=true&theme=highcontrast&lang=zh-CN)](https://leetcode.cn/u/hj-long/)
 [![B站统计](https://stats.justsong.cn/api/bilibili/?id=342525911&theme=highcontrast&lang=zh-CN)](https://space.bilibili.com/342525911)
   
 </details>
