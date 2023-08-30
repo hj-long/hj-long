@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hj-long, 目前在深圳
 - 👀 初级前端工程师、1年工作经验、技术栈：vue2\vue3、Uniapp、Electron、小程序、Nuxt
-- 📫 求职中。。。欢迎联系：1203725971@qq.com
+- 📫 欢迎联系：1203725971@qq.com
 
 ---
 <p align="center">
